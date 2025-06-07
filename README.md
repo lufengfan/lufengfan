@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lufengfan
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning automatic planning
+- 🌱 I’m currently learning embodied AI for arm.
 - 💞️ I’m looking to collaborate on car
 - 📫 Find me by contacting my email address : lhq4234@163.com 
 - 😄 Pronouns: ...
